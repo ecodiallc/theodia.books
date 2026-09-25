@@ -9,7 +9,8 @@
       "name": "1st Enoch",
       "description": "1st Enoch",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "1st_enoch"
     },
     {
       "id": "2nd-enoch",
@@ -18,7 +19,8 @@
       "name": "2nd Enoch",
       "description": "2nd Enoch",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "2nd_enoch"
     },
     {
       "id": "a-study-in-sanctification",
@@ -27,7 +29,8 @@
       "name": "A Study in Sanctification",
       "description": "A Study in Sanctification",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "a_study_in_sanctification"
     },
     {
       "id": "abbott-analytical-study-of-words",
@@ -36,7 +39,8 @@
       "name": "Abbott - Analytical Study of Words",
       "description": "Analytical Study of Words",
       "author": "Abbott",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "abbott_analytical_study_of_words"
     },
     {
       "id": "adeney-men-of-the-bible",
@@ -45,7 +49,8 @@
       "name": "Adeney - Men of the Bible",
       "description": "Men of the Bible",
       "author": "Adeney",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "adeney_men_of_the_bible"
     },
     {
       "id": "answers-in-genesis-unwrapping-the-pharaohs-excerpts-from-a-correct-chronology-egypt-archaeology",
@@ -54,7 +59,8 @@
       "name": "Answers in Genesis - Unwrapping the Pharaohs - excerpts from a correct chronology - Egypt Archaeology",
       "description": "Unwrapping the Pharaohs - excerpts from a correct chronology - Egypt Archaeology",
       "author": "Answers in Genesis",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "answers_in_genesis_unwrapping_the_pharaohs_excerpts_from_a_correct_chronology_egypt_archaeology"
     },
     {
       "id": "bible-statistics",
@@ -63,7 +69,8 @@
       "name": "Bible Statistics",
       "description": "Bible Statistics",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "bible_statistics"
     },
     {
       "id": "bible-study",
@@ -72,7 +79,8 @@
       "name": "Bible Study",
       "description": "Bible Study",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "bible_study"
     },
     {
       "id": "biblical-hermeneutics",
@@ -81,7 +89,8 @@
       "name": "Biblical Hermeneutics",
       "description": "Biblical Hermeneutics",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "biblical_hermeneutics"
     },
     {
       "id": "book-of-giants",
@@ -90,7 +99,8 @@
       "name": "Book of Giants",
       "description": "Book of Giants",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "book_of_giants"
     },
     {
       "id": "bounds-bounds-prayer-collection-ddt",
@@ -99,7 +109,8 @@
       "name": "Bounds - Bounds Prayer Collection DDT",
       "description": "Bounds Prayer Collection DDT",
       "author": "Bounds",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "bounds_bounds_prayer_collection_ddt"
     },
     {
       "id": "boyce-abstract-of-systematic-theology",
@@ -108,7 +119,8 @@
       "name": "Boyce - Abstract of Systematic Theology",
       "description": "Abstract of Systematic Theology",
       "author": "Boyce",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "boyce_abstract_of_systematic_theology"
     },
     {
       "id": "brengle-ancient-prophets",
@@ -117,7 +129,8 @@
       "name": "Brengle - Ancient Prophets",
       "description": "Ancient Prophets",
       "author": "Brengle",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "brengle_ancient_prophets"
     },
     {
       "id": "brengle-way-into-holiness",
@@ -126,7 +139,8 @@
       "name": "Brengle - Way into holiness",
       "description": "Way into holiness",
       "author": "Brengle",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "brengle_way_into_holiness"
     },
     {
       "id": "bridges-exposition-of-psalm-119",
@@ -135,7 +149,8 @@
       "name": "Bridges - Exposition of Psalm 119",
       "description": "Exposition of Psalm 119",
       "author": "Bridges",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "bridges_exposition_of_psalm_119"
     },
     {
       "id": "brown-chronological-table-of-the-parables-of-christ",
@@ -144,7 +159,8 @@
       "name": "Brown - Chronological Table of the Parables of Christ",
       "description": "Chronological Table of the Parables of Christ",
       "author": "Brown",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "brown_chronological_table_of_the_parables_of_christ"
     },
     {
       "id": "brown-the-tabernacle-its-priesthood-and-services",
@@ -153,7 +169,8 @@
       "name": "Brown - The Tabernacle its Priesthood and Services",
       "description": "The Tabernacle its Priesthood and Services",
       "author": "Brown",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "brown_the_tabernacle_its_priesthood_and_services"
     },
     {
       "id": "bruce-ff-are-the-nt-documents-reliable",
@@ -162,7 +179,8 @@
       "name": "Bruce FF - Are the NT Documents Reliable",
       "description": "Are the NT Documents Reliable",
       "author": "Bruce FF",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "bruce_ff_are_the_nt_documents_reliable"
     },
     {
       "id": "brumfield-the-potter-and-the-shepherd",
@@ -171,7 +189,8 @@
       "name": "Brumfield - The Potter and the Shepherd",
       "description": "The Potter and the Shepherd",
       "author": "Brumfield",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "brumfield_the_potter_and_the_shepherd"
     },
     {
       "id": "bullinger-figures-of-speach",
@@ -180,7 +199,8 @@
       "name": "Bullinger - Figures of Speach",
       "description": "Figures of Speach",
       "author": "Bullinger",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "bullinger_figures_of_speach"
     },
     {
       "id": "bullinger-great-cload-of-witnesses",
@@ -189,7 +209,8 @@
       "name": "Bullinger - Great Cload Of Witnesses",
       "description": "Great Cload Of Witnesses",
       "author": "Bullinger",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "bullinger_great_cload_of_witnesses"
     },
     {
       "id": "burton-syntax-moods-and-tenses-greek-nt",
@@ -198,7 +219,8 @@
       "name": "Burton - Syntax Moods and Tenses Greek NT",
       "description": "Syntax Moods and Tenses Greek NT",
       "author": "Burton",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "burton_syntax_moods_and_tenses_greek_nt"
     },
     {
       "id": "campbell-price-and-power-of-revival",
@@ -207,7 +229,8 @@
       "name": "Campbell - Price and Power of Revival",
       "description": "Price and Power of Revival",
       "author": "Campbell",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "campbell_price_and_power_of_revival"
     },
     {
       "id": "carroll-studies-in-romans",
@@ -216,7 +239,8 @@
       "name": "Carroll - Studies in Romans",
       "description": "Studies in Romans",
       "author": "Carroll",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "carroll_studies_in_romans"
     },
     {
       "id": "cecil-a-summary-of-the-epistle-to-the-romans",
@@ -225,7 +249,8 @@
       "name": "Cecil - A Summary of the Epistle to the Romans",
       "description": "A Summary of the Epistle to the Romans",
       "author": "Cecil",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "cecil_a_summary_of_the_epistle_to_the_romans"
     },
     {
       "id": "chapman-introduction-to-the-pentateuch",
@@ -234,7 +259,8 @@
       "name": "Chapman - Introduction to the Pentateuch",
       "description": "Introduction to the Pentateuch",
       "author": "Chapman",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "chapman_introduction_to_the_pentateuch"
     },
     {
       "id": "chronological-gospels",
@@ -243,7 +269,8 @@
       "name": "Chronological Gospels",
       "description": "Chronological Gospels",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "chronological_gospels"
     },
     {
       "id": "coe-spiritual-formation",
@@ -252,7 +279,8 @@
       "name": "Coe - Spiritual Formation",
       "description": "Spiritual Formation",
       "author": "Coe",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "coe_spiritual_formation"
     },
     {
       "id": "cooper-study-in-the-book-of-hebrews",
@@ -261,7 +289,8 @@
       "name": "Cooper - Study in the Book of Hebrews",
       "description": "Study in the Book of Hebrews",
       "author": "Cooper",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "cooper_study_in_the_book_of_hebrews"
     },
     {
       "id": "cooper-the-seventy-weeks-of-daniel",
@@ -270,7 +299,8 @@
       "name": "Cooper - The Seventy Weeks of Daniel",
       "description": "The Seventy Weeks of Daniel",
       "author": "Cooper",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "cooper_the_seventy_weeks_of_daniel"
     },
     {
       "id": "dates-and-chronology-of-scripture",
@@ -279,7 +309,8 @@
       "name": "Dates and Chronology of Scripture",
       "description": "Dates and Chronology of Scripture",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "dates_and_chronology_of_scripture"
     },
     {
       "id": "davidson-introductory-hebrew-grammar-hebrew-syntax",
@@ -288,7 +319,8 @@
       "name": "Davidson - Introductory Hebrew Grammar - Hebrew Syntax",
       "description": "Introductory Hebrew Grammar - Hebrew Syntax",
       "author": "Davidson",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "davidson_introductory_hebrew_grammar_hebrew_syntax"
     },
     {
       "id": "dead-sea-scrolls-bible",
@@ -297,7 +329,8 @@
       "name": "Dead Sea Scrolls Bible",
       "description": "Dead Sea Scrolls Bible",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "dead_sea_scrolls_bible"
     },
     {
       "id": "dead-sea-scrolls",
@@ -306,7 +339,8 @@
       "name": "Dead Sea Scrolls",
       "description": "Dead Sea Scrolls",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "dead_sea_scrolls"
     },
     {
       "id": "dennett-daniel-the-prophet",
@@ -315,7 +349,8 @@
       "name": "Dennett - Daniel the Prophet",
       "description": "Daniel the Prophet",
       "author": "Dennett",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "dennett_daniel_the_prophet"
     },
     {
       "id": "dolphin-names-of-god",
@@ -324,7 +359,8 @@
       "name": "Dolphin - Names of God",
       "description": "Names of God",
       "author": "Dolphin",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "dolphin_names_of_god"
     },
     {
       "id": "duff-and-hope-bible-in-its-making",
@@ -333,7 +369,8 @@
       "name": "Duff and Hope - Bible in its Making",
       "description": "Bible in its Making",
       "author": "Duff and Hope",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "duff_and_hope_bible_in_its_making"
     },
     {
       "id": "dungan-hermeneutics",
@@ -342,7 +379,8 @@
       "name": "Dungan - Hermeneutics",
       "description": "Hermeneutics",
       "author": "Dungan",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "dungan_hermeneutics"
     },
     {
       "id": "edersheim-library",
@@ -351,7 +389,8 @@
       "name": "Edersheim - Library",
       "description": "Library",
       "author": "Edersheim",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "edersheim_library"
     },
     {
       "id": "edersheim-ot-bible-history",
@@ -360,7 +399,8 @@
       "name": "Edersheim - OT Bible history",
       "description": "OT Bible history",
       "author": "Edersheim",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "edersheim_ot_bible_history"
     },
     {
       "id": "edersheim-sketches-of-jewish-social-life",
@@ -369,7 +409,8 @@
       "name": "Edersheim - Sketches of Jewish Social Life",
       "description": "Sketches of Jewish Social Life",
       "author": "Edersheim",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "edersheim_sketches_of_jewish_social_life"
     },
     {
       "id": "eusebuis-early-church-history-10-vols",
@@ -378,7 +419,8 @@
       "name": "Eusebuis - Early Church History - 10 vols",
       "description": "Early Church History - 10 vols",
       "author": "Eusebuis",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "eusebuis_early_church_history_10_vols"
     },
     {
       "id": "evans-book-of-books",
@@ -387,7 +429,8 @@
       "name": "Evans - Book of Books",
       "description": "Book of Books",
       "author": "Evans",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "evans_book_of_books"
     },
     {
       "id": "everett-introduction-to-the-holy-scriptures",
@@ -396,7 +439,8 @@
       "name": "Everett - Introduction to the Holy Scriptures",
       "description": "Introduction to the Holy Scriptures",
       "author": "Everett",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "everett_introduction_to_the_holy_scriptures"
     },
     {
       "id": "fairbairn-hermeneutical-manual-introduction-to-the-exegetical-study-of-the-nt",
@@ -405,7 +449,8 @@
       "name": "Fairbairn - Hermeneutical Manual - Introduction to the Exegetical Study of the NT",
       "description": "Hermeneutical Manual - Introduction to the Exegetical Study of the NT",
       "author": "Fairbairn",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "fairbairn_hermeneutical_manual_introduction_to_the_exegetical_study_of_the_nt"
     },
     {
       "id": "fairbairn-prophecy",
@@ -414,7 +459,8 @@
       "name": "Fairbairn - Prophecy",
       "description": "Prophecy",
       "author": "Fairbairn",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "fairbairn_prophecy"
     },
     {
       "id": "fairbairn-typology-of-scripture",
@@ -423,7 +469,8 @@
       "name": "Fairbairn - Typology of Scripture",
       "description": "Typology of Scripture",
       "author": "Fairbairn",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "fairbairn_typology_of_scripture"
     },
     {
       "id": "forsyth-the-soul-of-prayer",
@@ -432,7 +479,8 @@
       "name": "forsyth - The Soul of Prayer",
       "description": "The Soul of Prayer",
       "author": "forsyth",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "forsyth_the_soul_of_prayer"
     },
     {
       "id": "freeman-manners-and-customs-of-the-bible",
@@ -441,7 +489,8 @@
       "name": "Freeman - Manners and Customs of the Bible",
       "description": "Manners and Customs of the Bible",
       "author": "Freeman",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "freeman_manners_and_customs_of_the_bible"
     },
     {
       "id": "fruchtenbaum-the-use-of-the-ot-in-the-book-of-revelation",
@@ -450,7 +499,8 @@
       "name": "Fruchtenbaum - The Use of the OT in the Book of Revelation",
       "description": "The Use of the OT in the Book of Revelation",
       "author": "Fruchtenbaum",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "fruchtenbaum_the_use_of_the_ot_in_the_book_of_revelation"
     },
     {
       "id": "gaebelein-the-harmony-of-the-prophetic-word",
@@ -459,7 +509,8 @@
       "name": "Gaebelein - The Harmony of the Prophetic Word",
       "description": "The Harmony of the Prophetic Word",
       "author": "Gaebelein",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "gaebelein_the_harmony_of_the_prophetic_word"
     },
     {
       "id": "gaebelein-the-revelation",
@@ -468,7 +519,8 @@
       "name": "Gaebelein - The Revelation",
       "description": "The Revelation",
       "author": "Gaebelein",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "gaebelein_the_revelation"
     },
     {
       "id": "goodwin-syntax-of-moods-tenses-greek-verb",
@@ -477,7 +529,8 @@
       "name": "Goodwin - Syntax of Moods - Tenses - Greek - Verb",
       "description": "Syntax of Moods - Tenses - Greek - Verb",
       "author": "Goodwin",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "goodwin_syntax_of_moods_tenses_greek_verb"
     },
     {
       "id": "grant-the-bible-its-66-books-in-brief",
@@ -486,7 +539,8 @@
       "name": "Grant - The Bible - Its 66 Books In Brief",
       "description": "The Bible - Its 66 Books In Brief",
       "author": "Grant",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "grant_the_bible_its_66_books_in_brief"
     },
     {
       "id": "gray-a-textbook-on-prophecy",
@@ -495,7 +549,8 @@
       "name": "Gray - A Textbook on Prophecy",
       "description": "A Textbook on Prophecy",
       "author": "Gray",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "gray_a_textbook_on_prophecy"
     },
     {
       "id": "green-symbols-in-prophecy",
@@ -504,7 +559,8 @@
       "name": "Green - Symbols In Prophecy",
       "description": "Symbols In Prophecy",
       "author": "Green",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "green_symbols_in_prophecy"
     },
     {
       "id": "guide-to-hebrew-verb-study",
@@ -513,7 +569,8 @@
       "name": "Guide to Hebrew Verb Study",
       "description": "Guide to Hebrew Verb Study",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "guide_to_hebrew_verb_study"
     },
     {
       "id": "habershon-study-of-the-types",
@@ -522,7 +579,8 @@
       "name": "Habershon - Study of the Types",
       "description": "Study of the Types",
       "author": "Habershon",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "habershon_study_of_the_types"
     },
     {
       "id": "haldeman-the-tabernacle-priesthood-and-offerings",
@@ -531,7 +589,8 @@
       "name": "Haldeman - The Tabernacle Priesthood and Offerings",
       "description": "The Tabernacle Priesthood and Offerings",
       "author": "Haldeman",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "haldeman_the_tabernacle_priesthood_and_offerings"
     },
     {
       "id": "hastings-greater-men-and-women-of-the-bible",
@@ -540,7 +599,8 @@
       "name": "Hastings - Greater Men and Women of the Bible",
       "description": "Greater Men and Women of the Bible",
       "author": "Hastings",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hastings_greater_men_and_women_of_the_bible"
     },
     {
       "id": "hayes-70th-week-of-daniel-according-to-the-revelation-given-to-john",
@@ -549,7 +609,8 @@
       "name": "Hayes - 70th Week of Daniel According to the Revelation Given to John",
       "description": "70th Week of Daniel According to the Revelation Given to John",
       "author": "Hayes",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hayes_70th_week_of_daniel_according_to_the_revelation_given_to_john"
     },
     {
       "id": "hayes-70th-week-of-daniel-chart",
@@ -558,7 +619,8 @@
       "name": "Hayes - 70th Week of Daniel Chart",
       "description": "70th Week of Daniel Chart",
       "author": "Hayes",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hayes_70th_week_of_daniel_chart"
     },
     {
       "id": "heartbeat",
@@ -567,7 +629,8 @@
       "name": "Heartbeat",
       "description": "Heartbeat",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "Heartbeat"
     },
     {
       "id": "hengstenberg-egypt-and-the-books-of-moses",
@@ -576,7 +639,8 @@
       "name": "Hengstenberg - Egypt and the Books of Moses",
       "description": "Egypt and the Books of Moses",
       "author": "Hengstenberg",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hengstenberg_egypt_and_the_books_of_moses"
     },
     {
       "id": "hengstenberg-history-of-the-kingdom-of-god-under-the-old-testament",
@@ -585,7 +649,8 @@
       "name": "Hengstenberg - History of the Kingdom of God Under the Old Testament",
       "description": "History of the Kingdom of God Under the Old Testament",
       "author": "Hengstenberg",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hengstenberg_history_of_the_kingdom_of_god_under_the_old_testament"
     },
     {
       "id": "hermenutics",
@@ -594,7 +659,8 @@
       "name": "Hermenutics",
       "description": "Hermenutics",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "Hermenutics"
     },
     {
       "id": "historical-and-bible-time-chart",
@@ -603,7 +669,8 @@
       "name": "Historical and Bible Time chart",
       "description": "Historical and Bible Time chart",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "historical_and_bible_time_chart"
     },
     {
       "id": "hitchcock-the-march-of-empires-daniel",
@@ -612,7 +679,8 @@
       "name": "Hitchcock - The March of Empires - Daniel",
       "description": "The March of Empires - Daniel",
       "author": "Hitchcock",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hitchcock_the_march_of_empires_daniel"
     },
     {
       "id": "hodge-outlines-of-theology",
@@ -621,7 +689,8 @@
       "name": "Hodge - Outlines of Theology",
       "description": "Outlines of Theology",
       "author": "Hodge",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hodge_outlines_of_theology"
     },
     {
       "id": "hodge-systematic-theology-volume-1-of-3",
@@ -630,7 +699,8 @@
       "name": "Hodge - Systematic Theology - Volume 1 of 3",
       "description": "Systematic Theology - Volume 1 of 3",
       "author": "Hodge",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hodge_systematic_theology_volume_1_of_3"
     },
     {
       "id": "hodge-systematic-theology-volume-2-of-3",
@@ -639,7 +709,8 @@
       "name": "Hodge - Systematic Theology - Volume 2 of 3",
       "description": "Systematic Theology - Volume 2 of 3",
       "author": "Hodge",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hodge_systematic_theology_volume_2_of_3"
     },
     {
       "id": "hodge-systematic-theology-volume-3-of-3",
@@ -648,7 +719,8 @@
       "name": "Hodge - Systematic Theology - Volume 3 of 3",
       "description": "Systematic Theology - Volume 3 of 3",
       "author": "Hodge",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hodge_systematic_theology_volume_3_of_3"
     },
     {
       "id": "hunter-sacred-biography",
@@ -657,7 +729,8 @@
       "name": "Hunter - Sacred Biography",
       "description": "Sacred Biography",
       "author": "Hunter",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "hunter_sacred_biography"
     },
     {
       "id": "ice-covenants-and-dispensations",
@@ -666,7 +739,8 @@
       "name": "Ice - Covenants and Dispensations",
       "description": "Covenants and Dispensations",
       "author": "Ice",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ice_covenants_and_dispensations"
     },
     {
       "id": "ice-daniels-seventy-weeks-from-rapture-ready",
@@ -675,7 +749,8 @@
       "name": "Ice - Daniels Seventy Weeks from Rapture Ready",
       "description": "Daniels Seventy Weeks from Rapture Ready",
       "author": "Ice",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ice_daniels_seventy_weeks_from_rapture_ready"
     },
     {
       "id": "ice-dispensational-hermeneutics",
@@ -684,7 +759,8 @@
       "name": "Ice - Dispensational Hermeneutics",
       "description": "Dispensational Hermeneutics",
       "author": "Ice",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ice_dispensational_hermeneutics"
     },
     {
       "id": "ice-israels-fall-feasts-and-date-setting-of-the-rapture-from-rapture-ready",
@@ -693,7 +769,8 @@
       "name": "Ice - Israels Fall Feasts and Date-setting of the Rapture from Rapture Ready",
       "description": "Israels Fall Feasts and Date-setting of the Rapture from Rapture Ready",
       "author": "Ice",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ice_israels_fall_feasts_and_date_setting_of_the_rapture_from_rapture_ready"
     },
     {
       "id": "ironside-400-silent-years",
@@ -702,7 +779,8 @@
       "name": "Ironside - 400 Silent Years",
       "description": "400 Silent Years",
       "author": "Ironside",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ironside_400_silent_years"
     },
     {
       "id": "josephus-library",
@@ -711,7 +789,8 @@
       "name": "Josephus - Library",
       "description": "Library",
       "author": "Josephus",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "josephus_library"
     },
     {
       "id": "jowett-library-all-books",
@@ -720,7 +799,8 @@
       "name": "Jowett - Library - All Books",
       "description": "Library - All Books",
       "author": "Jowett",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "jowett_library_all_books"
     },
     {
       "id": "jowett-the-whole-armour-of-god",
@@ -729,7 +809,8 @@
       "name": "Jowett - The Whole Armour of God",
       "description": "The Whole Armour of God",
       "author": "Jowett",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "jowett_the_whole_armour_of_god"
     },
     {
       "id": "jukes-the-names-of-god",
@@ -738,7 +819,8 @@
       "name": "Jukes - The Names of God",
       "description": "The Names of God",
       "author": "Jukes",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "jukes_the_names_of_god"
     },
     {
       "id": "jukes-typology-and-hidden-spiritual-meaning-below-the-surface-in-the-book-of-genesis",
@@ -747,7 +829,8 @@
       "name": "Jukes - Typology and Hidden Spiritual Meaning Below the Surface in the Book of Genesis",
       "description": "Typology and Hidden Spiritual Meaning Below the Surface in the Book of Genesis",
       "author": "Jukes",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "jukes_typology_and_hidden_spiritual_meaning_below_the_surface_in_the_book_of_genesis"
     },
     {
       "id": "keathley-names-of-god",
@@ -756,7 +839,8 @@
       "name": "Keathley - Names of God",
       "description": "Names of God",
       "author": "Keathley",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "keathley_names_of_god"
     },
     {
       "id": "keathley-studies-in-revelation",
@@ -765,7 +849,8 @@
       "name": "Keathley - Studies in Revelation",
       "description": "Studies in Revelation",
       "author": "Keathley",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "keathley_studies_in_revelation"
     },
     {
       "id": "keener-biblical-interpretation",
@@ -774,7 +859,8 @@
       "name": "Keener - Biblical Interpretation",
       "description": "Biblical Interpretation",
       "author": "Keener",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "keener_biblical_interpretation"
     },
     {
       "id": "kelly-bible-treasury",
@@ -783,7 +869,8 @@
       "name": "Kelly - Bible Treasury",
       "description": "Bible Treasury",
       "author": "Kelly",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "kelly_bible_treasury"
     },
     {
       "id": "kelly-in-the-beginning-and-the-adamic-earth",
@@ -792,7 +879,8 @@
       "name": "Kelly - In the Beginning And the Adamic Earth",
       "description": "In the Beginning And the Adamic Earth",
       "author": "Kelly",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "kelly_in_the_beginning_and_the_adamic_earth"
     },
     {
       "id": "kennedy-st-pauls-conceptions-of-last-things",
@@ -801,7 +889,8 @@
       "name": "Kennedy - St Pauls Conceptions of Last Things",
       "description": "St Pauls Conceptions of Last Things",
       "author": "Kennedy",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "kennedy_st_pauls_conceptions_of_last_things"
     },
     {
       "id": "kirkpatrick-types-and-symbols-of-the-bible",
@@ -810,7 +899,8 @@
       "name": "Kirkpatrick - Types and Symbols of the Bible",
       "description": "Types and Symbols of the Bible",
       "author": "Kirkpatrick",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "kirkpatrick_types_and_symbols_of_the_bible"
     },
     {
       "id": "kitto-palestine-the-illustrated-bible-history-of-the-holy-land",
@@ -819,7 +909,8 @@
       "name": "Kitto - Palestine - The Illustrated Bible History of the Holy Land",
       "description": "Palestine - The Illustrated Bible History of the Holy Land",
       "author": "Kitto",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "kitto_palestine_the_illustrated_bible_history_of_the_holy_land"
     },
     {
       "id": "kitto-persia",
@@ -828,7 +919,8 @@
       "name": "Kitto - Persia",
       "description": "Persia",
       "author": "Kitto",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "kitto_persia"
     },
     {
       "id": "knapp-the-kings-of-judah-israel",
@@ -837,7 +929,8 @@
       "name": "Knapp - The Kings of Judah & Israel",
       "description": "The Kings of Judah & Israel",
       "author": "Knapp",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "knapp_the_kings_of_judah_israel"
     },
     {
       "id": "lamb-and-lion-ministries-book-of-revelation-weblogs",
@@ -846,7 +939,8 @@
       "name": "Lamb and Lion Ministries - Book of Revelation Weblogs",
       "description": "Book of Revelation Weblogs",
       "author": "Lamb and Lion Ministries",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "lamb_and_lion_ministries_book_of_revelation_weblogs"
     },
     {
       "id": "lamb-and-lion-ministries-daniel-weblogs",
@@ -855,7 +949,8 @@
       "name": "Lamb and Lion Ministries - Daniel Weblogs",
       "description": "Daniel Weblogs",
       "author": "Lamb and Lion Ministries",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "lamb_and_lion_ministries_daniel_weblogs"
     },
     {
       "id": "lamb-and-lion-ministries-jewish-life-weblogs",
@@ -864,7 +959,8 @@
       "name": "Lamb and Lion Ministries - Jewish Life Weblogs",
       "description": "Jewish Life Weblogs",
       "author": "Lamb and Lion Ministries",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "lamb_and_lion_ministries_jewish_life_weblogs"
     },
     {
       "id": "lamb-and-lion-ministries-revival-of-the-hebrew-language",
@@ -873,7 +969,8 @@
       "name": "Lamb and Lion Ministries - Revival of the Hebrew Language",
       "description": "Revival of the Hebrew Language",
       "author": "Lamb and Lion Ministries",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "lamb_and_lion_ministries_revival_of_the_hebrew_language"
     },
     {
       "id": "lange-the-life-of-the-lord-jesus-christ-4-vols",
@@ -882,7 +979,8 @@
       "name": "Lange - The Life of the Lord Jesus Christ - 4 vols",
       "description": "The Life of the Lord Jesus Christ - 4 vols",
       "author": "Lange",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "lange_the_life_of_the_lord_jesus_christ_4_vols"
     },
     {
       "id": "learning-new-testament-greek",
@@ -891,7 +989,8 @@
       "name": "Learning New Testament Greek",
       "description": "Learning New Testament Greek",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "learning_new_testament_greek"
     },
     {
       "id": "leupold-exposition-of-genesis-vol-1-and-2",
@@ -900,7 +999,8 @@
       "name": "Leupold - Exposition of Genesis - Vol 1 and 2",
       "description": "Exposition of Genesis - Vol 1 and 2",
       "author": "Leupold",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "leupold_exposition_of_genesis_vol_1_and_2"
     },
     {
       "id": "lewis-study-of-basic-bible-interpretation",
@@ -909,7 +1009,8 @@
       "name": "Lewis - Study of Basic Bible Interpretation",
       "description": "Study of Basic Bible Interpretation",
       "author": "Lewis",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "lewis_study_of_basic_bible_interpretation"
     },
     {
       "id": "lineage",
@@ -918,7 +1019,8 @@
       "name": "Lineage",
       "description": "Lineage",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "Lineage"
     },
     {
       "id": "lineages-and-timelines",
@@ -927,7 +1029,8 @@
       "name": "Lineages and Timelines",
       "description": "Lineages and Timelines",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "lineages_and_timelines"
     },
     {
       "id": "lunden-abraham-and-the-life-of-faith",
@@ -936,7 +1039,8 @@
       "name": "Lunden - Abraham and the Life of Faith",
       "description": "Abraham and the Life of Faith",
       "author": "Lunden",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "lunden_abraham_and_the_life_of_faith"
     },
     {
       "id": "mackintosh-notes-on-the-pentateuch",
@@ -945,7 +1049,8 @@
       "name": "Mackintosh - Notes on the Pentateuch",
       "description": "Notes on the Pentateuch",
       "author": "Mackintosh",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mackintosh_notes_on_the_pentateuch"
     },
     {
       "id": "mahan-gospel-according-to-isaiah",
@@ -954,7 +1059,8 @@
       "name": "Mahan - Gospel According to Isaiah",
       "description": "Gospel According to Isaiah",
       "author": "Mahan",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mahan_gospel_according_to_isaiah"
     },
     {
       "id": "mauro-seventy-weeks-and-the-great-tribulation",
@@ -963,7 +1069,8 @@
       "name": "Mauro - Seventy Weeks and the Great Tribulation",
       "description": "Seventy Weeks and the Great Tribulation",
       "author": "Mauro",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mauro_seventy_weeks_and_the_great_tribulation"
     },
     {
       "id": "mauro-wonders-of-bible-chronology",
@@ -972,7 +1079,8 @@
       "name": "Mauro - Wonders of Bible Chronology",
       "description": "Wonders of Bible Chronology",
       "author": "Mauro",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mauro_wonders_of_bible_chronology"
     },
     {
       "id": "mccall-israel-the-center-of-divine-history",
@@ -981,7 +1089,8 @@
       "name": "McCall - Israel the Center of Divine History",
       "description": "Israel the Center of Divine History",
       "author": "McCall",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mccall_israel_the_center_of_divine_history"
     },
     {
       "id": "mcclain-daniels-prophecy-of-the-seventy-weeks",
@@ -990,7 +1099,8 @@
       "name": "McClain - Daniels Prophecy of the Seventy Weeks",
       "description": "Daniels Prophecy of the Seventy Weeks",
       "author": "McClain",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mcclain_daniels_prophecy_of_the_seventy_weeks"
     },
     {
       "id": "mcgee-the-tabernacle-gods-portrait-of-christ",
@@ -999,7 +1109,8 @@
       "name": "McGee - The Tabernacle - Gods Portrait of Christ",
       "description": "The Tabernacle - Gods Portrait of Christ",
       "author": "McGee",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mcgee_the_tabernacle_gods_portrait_of_christ"
     },
     {
       "id": "mcgee-thru-the-bible",
@@ -1008,7 +1119,8 @@
       "name": "Mcgee - Thru the Bible",
       "description": "Thru the Bible",
       "author": "Mcgee",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mcgee_thru_the_bible"
     },
     {
       "id": "mcintyre-the-hidden-life-of-prayer",
@@ -1017,7 +1129,8 @@
       "name": "McIntyre - The Hidden Life of Prayer",
       "description": "The Hidden Life of Prayer",
       "author": "McIntyre",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mcintyre_the_hidden_life_of_prayer"
     },
     {
       "id": "mclean-the-chronological-and-sequential-structure-of-the-book-of-revelation",
@@ -1026,7 +1139,8 @@
       "name": "McLean - The Chronological and Sequential Structure of the Book of Revelation",
       "description": "The Chronological and Sequential Structure of the Book of Revelation",
       "author": "McLean",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mclean_the_chronological_and_sequential_structure_of_the_book_of_revelation"
     },
     {
       "id": "meldau-57-reasons-why-we-know-the-bible-is-the-word-of-god",
@@ -1035,7 +1149,8 @@
       "name": "Meldau - 57 Reasons Why We Know the Bible is the Word of God",
       "description": "57 Reasons Why We Know the Bible is the Word of God",
       "author": "Meldau",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meldau_57_reasons_why_we_know_the_bible_is_the_word_of_god"
     },
     {
       "id": "meldau-messiah-in-both-testaments",
@@ -1044,7 +1159,8 @@
       "name": "Meldau - Messiah in Both Testaments",
       "description": "Messiah in Both Testaments",
       "author": "Meldau",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meldau_messiah_in_both_testaments"
     },
     {
       "id": "messianic-prophecies",
@@ -1053,7 +1169,8 @@
       "name": "Messianic Prophecies",
       "description": "Messianic Prophecies",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "messianic_prophecies"
     },
     {
       "id": "meyer-abraham",
@@ -1062,7 +1179,8 @@
       "name": "Meyer - Abraham",
       "description": "Abraham",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_abraham"
     },
     {
       "id": "meyer-israel-a-prince-with-god",
@@ -1071,7 +1189,8 @@
       "name": "Meyer - Israel A Prince with God",
       "description": "Israel A Prince with God",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_israel_a_prince_with_god"
     },
     {
       "id": "meyer-john-the-baptist",
@@ -1080,7 +1199,8 @@
       "name": "Meyer - John the Baptist",
       "description": "John the Baptist",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_john_the_baptist"
     },
     {
       "id": "meyer-library-all-books",
@@ -1089,7 +1209,8 @@
       "name": "Meyer - Library - All Books",
       "description": "Library - All Books",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_library_all_books"
     },
     {
       "id": "meyer-paul-a-servant-of-jesus-christ",
@@ -1098,7 +1219,8 @@
       "name": "Meyer - Paul a Servant of Jesus Christ",
       "description": "Paul a Servant of Jesus Christ",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_paul_a_servant_of_jesus_christ"
     },
     {
       "id": "meyer-peter-fisherman-postle-disciple",
@@ -1107,7 +1229,8 @@
       "name": "Meyer - Peter - fisherman -postle disciple",
       "description": "Peter - fisherman -postle disciple",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_peter_fisherman_postle_disciple"
     },
     {
       "id": "meyer-shepherd-psalm",
@@ -1116,7 +1239,8 @@
       "name": "Meyer - Shepherd Psalm",
       "description": "Shepherd Psalm",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_shepherd_psalm"
     },
     {
       "id": "meyer-the-secret-of-guidance",
@@ -1125,7 +1249,8 @@
       "name": "Meyer - The Secret of Guidance",
       "description": "The Secret of Guidance",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_the_secret_of_guidance"
     },
     {
       "id": "meyer-the-way-into-the-holiest",
@@ -1134,7 +1259,8 @@
       "name": "Meyer - The way into the Holiest",
       "description": "The way into the Holiest",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_the_way_into_the_holiest"
     },
     {
       "id": "meyer-tried-by-fire",
@@ -1143,7 +1269,8 @@
       "name": "Meyer - Tried by fire",
       "description": "Tried by fire",
       "author": "Meyer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "meyer_tried_by_fire"
     },
     {
       "id": "miller-church-history",
@@ -1152,7 +1279,8 @@
       "name": "Miller - Church History",
       "description": "Church History",
       "author": "Miller",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "miller_church_history"
     },
     {
       "id": "mishna",
@@ -1161,7 +1289,8 @@
       "name": "Mishna",
       "description": "Mishna",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "Mishna"
     },
     {
       "id": "mitchell-parables-of-the-new-testament-spiritually-unfolded",
@@ -1170,7 +1299,8 @@
       "name": "Mitchell - Parables of the New Testament Spiritually Unfolded",
       "description": "Parables of the New Testament Spiritually Unfolded",
       "author": "Mitchell",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mitchell_parables_of_the_new_testament_spiritually_unfolded"
     },
     {
       "id": "mitchell-parables-of-the-old-testament-explained",
@@ -1179,7 +1309,8 @@
       "name": "Mitchell - Parables of the Old Testament Explained",
       "description": "Parables of the Old Testament Explained",
       "author": "Mitchell",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mitchell_parables_of_the_old_testament_explained"
     },
     {
       "id": "moody-biblical-word-study",
@@ -1188,7 +1319,8 @@
       "name": "Moody - Biblical Word Study",
       "description": "Biblical Word Study",
       "author": "Moody",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "moody_biblical_word_study"
     },
     {
       "id": "moorehead-outline-studies-in-the-books-of-the-ot",
@@ -1197,7 +1329,8 @@
       "name": "Moorehead - Outline Studies in the Books of the OT",
       "description": "Outline Studies in the Books of the OT",
       "author": "Moorehead",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "moorehead_outline_studies_in_the_books_of_the_ot"
     },
     {
       "id": "morgan-full-library",
@@ -1206,7 +1339,8 @@
       "name": "Morgan - Full Library",
       "description": "Full Library",
       "author": "Morgan",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "morgan_full_library"
     },
     {
       "id": "morgan-pauls-epistle-to-the-romans",
@@ -1215,7 +1349,8 @@
       "name": "Morgan - Pauls Epistle to the Romans",
       "description": "Pauls Epistle to the Romans",
       "author": "Morgan",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "morgan_pauls_epistle_to_the_romans"
     },
     {
       "id": "morgan-the-acts-of-the-apostles",
@@ -1224,7 +1359,8 @@
       "name": "Morgan - The Acts of the Apostles",
       "description": "The Acts of the Apostles",
       "author": "Morgan",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "morgan_the_acts_of_the_apostles"
     },
     {
       "id": "morgan-the-analyzed-bible",
@@ -1233,7 +1369,8 @@
       "name": "Morgan - The Analyzed Bible",
       "description": "The Analyzed Bible",
       "author": "Morgan",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "morgan_the_analyzed_bible"
     },
     {
       "id": "morgan-the-parables-and-metaphors-of-our-lord",
@@ -1242,7 +1379,8 @@
       "name": "Morgan - The Parables and Metaphors of Our Lord",
       "description": "The Parables and Metaphors of Our Lord",
       "author": "Morgan",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "morgan_the_parables_and_metaphors_of_our_lord"
     },
     {
       "id": "moses-the-man-of-god",
@@ -1251,7 +1389,8 @@
       "name": "Moses The Man of God",
       "description": "Moses The Man of God",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "moses_the_man_of_god"
     },
     {
       "id": "moule-ephesian-studies-exposition",
@@ -1260,7 +1399,8 @@
       "name": "Moule - Ephesian Studies Exposition",
       "description": "Ephesian Studies Exposition",
       "author": "Moule",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "moule_ephesian_studies_exposition"
     },
     {
       "id": "mueller-library",
@@ -1269,7 +1409,8 @@
       "name": "Mueller - Library",
       "description": "Library",
       "author": "Mueller",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "mueller_library"
     },
     {
       "id": "neighbour-sermons-and-bible-studies",
@@ -1278,7 +1419,8 @@
       "name": "Neighbour - Sermons and Bible Studies",
       "description": "Sermons and Bible Studies",
       "author": "Neighbour",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "neighbour_sermons_and_bible_studies"
     },
     {
       "id": "neighbour-the-baptism-in-the-holy-ghost-exegesis-of-acts-1-2",
@@ -1287,7 +1429,8 @@
       "name": "Neighbour - The Baptism in the Holy Ghost - Exegesis of Acts 1-2",
       "description": "The Baptism in the Holy Ghost - Exegesis of Acts 1-2",
       "author": "Neighbour",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "neighbour_the_baptism_in_the_holy_ghost_exegesis_of_acts_1_2"
     },
     {
       "id": "nephilim-the-giants-of-old",
@@ -1296,7 +1439,8 @@
       "name": "Nephilim - The Giants of Old",
       "description": "The Giants of Old",
       "author": "Nephilim",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "nephilim_the_giants_of_old"
     },
     {
       "id": "newberry-notes-book-of-the-revelation",
@@ -1305,7 +1449,8 @@
       "name": "Newberry - Notes Book of the Revelation",
       "description": "Notes Book of the Revelation",
       "author": "Newberry",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "newberry_notes_book_of_the_revelation"
     },
     {
       "id": "newberry-solomons-temple",
@@ -1314,7 +1459,8 @@
       "name": "Newberry - Solomons Temple",
       "description": "Solomons Temple",
       "author": "Newberry",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "newberry_solomons_temple"
     },
     {
       "id": "newberry-types-of-the-levitical-offerings",
@@ -1323,7 +1469,8 @@
       "name": "Newberry - Types of the Levitical Offerings",
       "description": "Types of the Levitical Offerings",
       "author": "Newberry",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "newberry_types_of_the_levitical_offerings"
     },
     {
       "id": "newberry-types-of-the-tabernacle",
@@ -1332,7 +1479,8 @@
       "name": "Newberry - Types of the Tabernacle",
       "description": "Types of the Tabernacle",
       "author": "Newberry",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "newberry_types_of_the_tabernacle"
     },
     {
       "id": "newell-pauls-gospel",
@@ -1341,7 +1489,8 @@
       "name": "Newell - Pauls Gospel",
       "description": "Pauls Gospel",
       "author": "Newell",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "newell_pauls_gospel"
     },
     {
       "id": "newell-romans-verse-by-verse",
@@ -1350,7 +1499,8 @@
       "name": "Newell - Romans Verse by Verse",
       "description": "Romans Verse by Verse",
       "author": "Newell",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "newell_romans_verse_by_verse"
     },
     {
       "id": "norton-introduction-on-the-peshito-syriac-text-and-the-revised-greek-text-of-1881",
@@ -1359,7 +1509,8 @@
       "name": "Norton - Introduction on the Peshito Syriac Text and the Revised Greek text of 1881",
       "description": "Introduction on the Peshito Syriac Text and the Revised Greek text of 1881",
       "author": "Norton",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "norton_introduction_on_the_peshito_syriac_text_and_the_revised_greek_text_of_1881"
     },
     {
       "id": "ot-kings-and-prophets",
@@ -1368,7 +1519,8 @@
       "name": "OT Kings and Prophets",
       "description": "OT Kings and Prophets",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ot_kings_and_prophets"
     },
     {
       "id": "owen-an-exposition-of-the-epistle-to-the-hebrews",
@@ -1377,7 +1529,8 @@
       "name": "Owen - An Exposition of the Epistle to the Hebrews",
       "description": "An Exposition of the Epistle to the Hebrews",
       "author": "Owen",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "owen_an_exposition_of_the_epistle_to_the_hebrews"
     },
     {
       "id": "owen-communion-with-god",
@@ -1386,7 +1539,8 @@
       "name": "Owen - Communion with God",
       "description": "Communion with God",
       "author": "Owen",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "owen_communion_with_god"
     },
     {
       "id": "pardington-outline-studies-in-christian-doctrine",
@@ -1395,7 +1549,8 @@
       "name": "Pardington - Outline Studies in Christian Doctrine",
       "description": "Outline Studies in Christian Doctrine",
       "author": "Pardington",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "pardington_outline_studies_in_christian_doctrine"
     },
     {
       "id": "pearlman-nt-through-the-bible-book-by-book",
@@ -1404,7 +1559,8 @@
       "name": "Pearlman - NT Through the Bible Book by Book",
       "description": "NT Through the Bible Book by Book",
       "author": "Pearlman",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "pearlman_nt_through_the_bible_book_by_book"
     },
     {
       "id": "pearlman-ot-through-the-bible-book-by-book",
@@ -1413,7 +1569,8 @@
       "name": "Pearlman - OT Through the Bible Book by Book",
       "description": "OT Through the Bible Book by Book",
       "author": "Pearlman",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "pearlman_ot_through_the_bible_book_by_book"
     },
     {
       "id": "pendleton-synoptic-life-of-the-apostle-paul",
@@ -1422,7 +1579,8 @@
       "name": "Pendleton - Synoptic Life of the Apostle Paul",
       "description": "Synoptic Life of the Apostle Paul",
       "author": "Pendleton",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "pendleton_synoptic_life_of_the_apostle_paul"
     },
     {
       "id": "pettingill-simple-studies-in-revelation",
@@ -1431,7 +1589,8 @@
       "name": "Pettingill - Simple Studies in Revelation",
       "description": "Simple Studies in Revelation",
       "author": "Pettingill",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "pettingill_simple_studies_in_revelation"
     },
     {
       "id": "pettingill-simple-studies-in-romans",
@@ -1440,7 +1599,8 @@
       "name": "Pettingill - Simple Studies in Romans",
       "description": "Simple Studies in Romans",
       "author": "Pettingill",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "pettingill_simple_studies_in_romans"
     },
     {
       "id": "pratt-the-excellent-woman-of-proverbs-31",
@@ -1449,7 +1609,8 @@
       "name": "Pratt - The Excellent Woman of Proverbs 31",
       "description": "The Excellent Woman of Proverbs 31",
       "author": "Pratt",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "pratt_the_excellent_woman_of_proverbs_31"
     },
     {
       "id": "praying-in-the-spirit",
@@ -1458,7 +1619,8 @@
       "name": "Praying in the Spirit",
       "description": "Praying in the Spirit",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "praying_in_the_spirit"
     },
     {
       "id": "ramsay-a-historical-commentary-on-st-pauls-epistle-to-the-galatians",
@@ -1467,7 +1629,8 @@
       "name": "Ramsay - A Historical Commentary on St Pauls Epistle to the Galatians",
       "description": "A Historical Commentary on St Pauls Epistle to the Galatians",
       "author": "Ramsay",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ramsay_a_historical_commentary_on_st_pauls_epistle_to_the_galatians"
     },
     {
       "id": "ramsay-letters-to-the-seven-churches-of-asia",
@@ -1476,7 +1639,8 @@
       "name": "Ramsay - Letters to the Seven Churches of Asia",
       "description": "Letters to the Seven Churches of Asia",
       "author": "Ramsay",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ramsay_letters_to_the_seven_churches_of_asia"
     },
     {
       "id": "ramsay-paul-the-traveler-and-roman-citizen",
@@ -1485,7 +1649,8 @@
       "name": "Ramsay - Paul the Traveler and Roman Citizen",
       "description": "Paul the Traveler and Roman Citizen",
       "author": "Ramsay",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ramsay_paul_the_traveler_and_roman_citizen"
     },
     {
       "id": "ramsay-the-church-in-the-roman-empire-before-170-ad",
@@ -1494,7 +1659,8 @@
       "name": "Ramsay - The Church in the Roman Empire Before 170 AD",
       "description": "The Church in the Roman Empire Before 170 AD",
       "author": "Ramsay",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ramsay_the_church_in_the_roman_empire_before_170_ad"
     },
     {
       "id": "ramsay-the-spirit-of-elijah",
@@ -1503,7 +1669,8 @@
       "name": "Ramsay - The Spirit of Elijah",
       "description": "The Spirit of Elijah",
       "author": "Ramsay",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ramsay_the_spirit_of_elijah"
     },
     {
       "id": "ramsay-the-teaching-of-paul-in-terms-of-the-present-day",
@@ -1512,7 +1679,8 @@
       "name": "Ramsay - The Teaching of Paul in Terms of the Present Day",
       "description": "The Teaching of Paul in Terms of the Present Day",
       "author": "Ramsay",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ramsay_the_teaching_of_paul_in_terms_of_the_present_day"
     },
     {
       "id": "ravenhill-articles-of-leonard-ravenhill",
@@ -1521,7 +1689,8 @@
       "name": "Ravenhill - Articles of Leonard Ravenhill",
       "description": "Articles of Leonard Ravenhill",
       "author": "Ravenhill",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ravenhill_articles_of_leonard_ravenhill"
     },
     {
       "id": "ravenhill-prayer",
@@ -1530,7 +1699,8 @@
       "name": "Ravenhill - Prayer",
       "description": "Prayer",
       "author": "Ravenhill",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ravenhill_prayer"
     },
     {
       "id": "ridout-from-genesis-to-revelation",
@@ -1539,7 +1709,8 @@
       "name": "Ridout - From Genesis to Revelation",
       "description": "From Genesis to Revelation",
       "author": "Ridout",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ridout_from_genesis_to_revelation"
     },
     {
       "id": "ridout-lectures-on-the-epistle-to-the-hebrews",
@@ -1548,7 +1719,8 @@
       "name": "Ridout - Lectures on the Epistle to the Hebrews",
       "description": "Lectures on the Epistle to the Hebrews",
       "author": "Ridout",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ridout_lectures_on_the_epistle_to_the_hebrews"
     },
     {
       "id": "ridout-lectures-on-the-tabernacle",
@@ -1557,7 +1729,8 @@
       "name": "Ridout - Lectures on the Tabernacle",
       "description": "Lectures on the Tabernacle",
       "author": "Ridout",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ridout_lectures_on_the_tabernacle"
     },
     {
       "id": "ridout-the-book-of-job",
@@ -1566,7 +1739,8 @@
       "name": "Ridout - The Book of Job",
       "description": "The Book of Job",
       "author": "Ridout",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ridout_the_book_of_job"
     },
     {
       "id": "ridout-the-four-gospels",
@@ -1575,7 +1749,8 @@
       "name": "Ridout - The Four Gospels",
       "description": "The Four Gospels",
       "author": "Ridout",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ridout_the_four_gospels"
     },
     {
       "id": "ridout-the-pentateuch",
@@ -1584,7 +1759,8 @@
       "name": "Ridout - The Pentateuch",
       "description": "The Pentateuch",
       "author": "Ridout",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ridout_the_pentateuch"
     },
     {
       "id": "riley-my-bible",
@@ -1593,7 +1769,8 @@
       "name": "Riley - My Bible",
       "description": "My Bible",
       "author": "Riley",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "riley_my_bible"
     },
     {
       "id": "rodkinson-babylonian-talmud",
@@ -1602,7 +1779,8 @@
       "name": "Rodkinson - Babylonian Talmud",
       "description": "Babylonian Talmud",
       "author": "Rodkinson",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "rodkinson_babylonian_talmud"
     },
     {
       "id": "role-of-a-prophet",
@@ -1611,7 +1789,8 @@
       "name": "Role of a Prophet",
       "description": "Role of a Prophet",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "role_of_a_prophet"
     },
     {
       "id": "romans",
@@ -1620,7 +1799,8 @@
       "name": "Romans",
       "description": "Romans",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "Romans"
     },
     {
       "id": "rosenthal-why-study-theology",
@@ -1629,7 +1809,8 @@
       "name": "Rosenthal - Why Study Theology",
       "description": "Why Study Theology",
       "author": "Rosenthal",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "rosenthal_why_study_theology"
     },
     {
       "id": "samuel",
@@ -1638,7 +1819,8 @@
       "name": "Samuel",
       "description": "Samuel",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "Samuel"
     },
     {
       "id": "schurer-the-jewish-people-in-the-tme-of-jesus-christ",
@@ -1647,7 +1829,8 @@
       "name": "Schurer - The Jewish People in the Tme of Jesus Christ",
       "description": "The Jewish People in the Tme of Jesus Christ",
       "author": "Schurer",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "schurer_the_jewish_people_in_the_tme_of_jesus_christ"
     },
     {
       "id": "septuagint-lxx-apocrypha",
@@ -1656,7 +1839,8 @@
       "name": "Septuagint Lxx Apocrypha",
       "description": "Septuagint Lxx Apocrypha",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "septuagint_lxx_apocrypha"
     },
     {
       "id": "simpson-but-god",
@@ -1665,7 +1849,8 @@
       "name": "Simpson - But God",
       "description": "But God",
       "author": "Simpson",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "simpson_but_god"
     },
     {
       "id": "simpson-danger-lines",
@@ -1674,7 +1859,8 @@
       "name": "Simpson - Danger Lines",
       "description": "Danger Lines",
       "author": "Simpson",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "simpson_danger_lines"
     },
     {
       "id": "simpson-how-to-abide",
@@ -1683,7 +1869,8 @@
       "name": "Simpson - How to Abide",
       "description": "How to Abide",
       "author": "Simpson",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "simpson_how_to_abide"
     },
     {
       "id": "smith-basics-of-bible-interpretation",
@@ -1692,7 +1879,8 @@
       "name": "Smith - Basics of Bible Interpretation",
       "description": "Basics of Bible Interpretation",
       "author": "Smith",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "smith_basics_of_bible_interpretation"
     },
     {
       "id": "southern-bible-book-introductions",
@@ -1701,7 +1889,8 @@
       "name": "Southern - Bible Book Introductions",
       "description": "Bible Book Introductions",
       "author": "Southern",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "southern_bible_book_introductions"
     },
     {
       "id": "stalker-the-life-of-saint-paul",
@@ -1710,7 +1899,8 @@
       "name": "Stalker - The Life of Saint Paul",
       "description": "The Life of Saint Paul",
       "author": "Stalker",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "stalker_the_life_of_saint_paul"
     },
     {
       "id": "stevenson-studies-in-the-doctrines-of-the-bible",
@@ -1719,7 +1909,8 @@
       "name": "Stevenson - Studies in the Doctrines of the Bible",
       "description": "Studies in the Doctrines of the Bible",
       "author": "Stevenson",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "stevenson_studies_in_the_doctrines_of_the_bible"
     },
     {
       "id": "strong-systematic-theology",
@@ -1728,7 +1919,8 @@
       "name": "Strong - Systematic Theology",
       "description": "Systematic Theology",
       "author": "Strong",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "strong_systematic_theology"
     },
     {
       "id": "strongs-greek-in-a-nutshell",
@@ -1737,7 +1929,8 @@
       "name": "Strongs - Greek in a Nutshell",
       "description": "Greek in a Nutshell",
       "author": "Strongs",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "strongs_greek_in_a_nutshell"
     },
     {
       "id": "tabernacle-treasures",
@@ -1746,7 +1939,8 @@
       "name": "Tabernacle Treasures",
       "description": "Tabernacle Treasures",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "tabernacle_treasures"
     },
     {
       "id": "talbot-addresses-on-romans",
@@ -1755,7 +1949,8 @@
       "name": "Talbot - Addresses on Romans",
       "description": "Addresses on Romans",
       "author": "Talbot",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "talbot_addresses_on_romans"
     },
     {
       "id": "talbot-christ-in-the-tabernacle",
@@ -1764,7 +1959,8 @@
       "name": "Talbot - Christ in the Tabernacle",
       "description": "Christ in the Tabernacle",
       "author": "Talbot",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "talbot_christ_in_the_tabernacle"
     },
     {
       "id": "talbot-lectures-on-ephesians",
@@ -1773,7 +1969,8 @@
       "name": "Talbot - Lectures on Ephesians",
       "description": "Lectures on Ephesians",
       "author": "Talbot",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "talbot_lectures_on_ephesians"
     },
     {
       "id": "talbot-prophecies-of-daniel",
@@ -1782,7 +1979,8 @@
       "name": "Talbot - Prophecies of Daniel",
       "description": "Prophecies of Daniel",
       "author": "Talbot",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "talbot_prophecies_of_daniel"
     },
     {
       "id": "talbot-the-feasts-of-the-lord",
@@ -1791,7 +1989,8 @@
       "name": "Talbot - The Feasts of the Lord",
       "description": "The Feasts of the Lord",
       "author": "Talbot",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "talbot_the_feasts_of_the_lord"
     },
     {
       "id": "tales-and-maxims-of-the-midrash",
@@ -1800,7 +1999,8 @@
       "name": "Tales and Maxims of the Midrash",
       "description": "Tales and Maxims of the Midrash",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "tales_and_maxims_of_the_midrash"
     },
     {
       "id": "textual-criticism",
@@ -1809,7 +2009,8 @@
       "name": "Textual Criticism",
       "description": "Textual Criticism",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "textual_criticism"
     },
     {
       "id": "the-names-of-god",
@@ -1818,7 +2019,8 @@
       "name": "The Names of God",
       "description": "The Names of God",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "the_names_of_god"
     },
     {
       "id": "tidwell-the-bible-period-by-period",
@@ -1827,7 +2029,8 @@
       "name": "Tidwell - The Bible Period by Period",
       "description": "The Bible Period by Period",
       "author": "Tidwell",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "tidwell_the_bible_period_by_period"
     },
     {
       "id": "timeline-of-paul-the-apostle",
@@ -1836,7 +2039,8 @@
       "name": "Timeline of Paul the Apostle",
       "description": "Timeline of Paul the Apostle",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "timeline_of_paul_the_apostle"
     },
     {
       "id": "torrey-baptism-with-the-holy-spirit",
@@ -1845,7 +2049,8 @@
       "name": "Torrey - Baptism with the Holy Spirit",
       "description": "Baptism with the Holy Spirit",
       "author": "Torrey",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "torrey_baptism_with_the_holy_spirit"
     },
     {
       "id": "towns-a-journey-through-the-old-testament",
@@ -1854,7 +2059,8 @@
       "name": "Towns - A Journey through the Old Testament",
       "description": "A Journey through the Old Testament",
       "author": "Towns",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "towns_a_journey_through_the_old_testament"
     },
     {
       "id": "towns-the-names-of-jesus",
@@ -1863,7 +2069,8 @@
       "name": "Towns - The Names of Jesus",
       "description": "The Names of Jesus",
       "author": "Towns",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "towns_the_names_of_jesus"
     },
     {
       "id": "towns-the-names-of-the-holy-spirit",
@@ -1872,7 +2079,8 @@
       "name": "Towns - The Names of the Holy Spirit",
       "description": "The Names of the Holy Spirit",
       "author": "Towns",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "towns_the_names_of_the_holy_spirit"
     },
     {
       "id": "trench-on-the-study-of-words",
@@ -1881,7 +2089,8 @@
       "name": "Trench - On the Study Of Words",
       "description": "On the Study Of Words",
       "author": "Trench",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "trench_on_the_study_of_words"
     },
     {
       "id": "typology",
@@ -1890,7 +2099,8 @@
       "name": "Typology",
       "description": "Typology",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "Typology"
     },
     {
       "id": "ussher-annals-of-the-world",
@@ -1899,7 +2109,8 @@
       "name": "Ussher - Annals of the World",
       "description": "Annals of the World",
       "author": "Ussher",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "ussher_annals_of_the_world"
     },
     {
       "id": "uwhg",
@@ -1908,7 +2119,8 @@
       "name": "UWHG",
       "description": "UWHG",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "UWHG"
     },
     {
       "id": "wardlaw-lectures-on-the-book-of-proverbs-3-vols",
@@ -1917,7 +2129,8 @@
       "name": "Wardlaw - Lectures on the Book of Proverbs - 3 vols",
       "description": "Lectures on the Book of Proverbs - 3 vols",
       "author": "Wardlaw",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "wardlaw_lectures_on_the_book_of_proverbs_3_vols"
     },
     {
       "id": "wesley-a-christian-library-part-1",
@@ -1926,7 +2139,8 @@
       "name": "Wesley - A Christian Library - Part 1",
       "description": "A Christian Library - Part 1",
       "author": "Wesley",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "wesley_a_christian_library_part_1"
     },
     {
       "id": "wesley-a-christian-library-part-2",
@@ -1935,7 +2149,8 @@
       "name": "Wesley - A Christian Library - Part 2",
       "description": "A Christian Library - Part 2",
       "author": "Wesley",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "wesley_a_christian_library_part_2"
     },
     {
       "id": "whole-bible-study-course-year-01",
@@ -1944,7 +2159,8 @@
       "name": "Whole Bible Study Course Year 01",
       "description": "Whole Bible Study Course Year 01",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "whole_bible_study_course_year_01"
     },
     {
       "id": "whyte-bible-characters",
@@ -1953,7 +2169,8 @@
       "name": "Whyte - Bible Characters",
       "description": "Bible Characters",
       "author": "Whyte",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "whyte_bible_characters"
     },
     {
       "id": "wight-devotional-studies-of-old-testament-types",
@@ -1962,7 +2179,8 @@
       "name": "Wight - Devotional Studies of Old Testament Types",
       "description": "Devotional Studies of Old Testament Types",
       "author": "Wight",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "wight_devotional_studies_of_old_testament_types"
     },
     {
       "id": "wight-manners-and-customs-of-bible-lands",
@@ -1971,7 +2189,8 @@
       "name": "Wight - Manners and Customs of Bible Lands",
       "description": "Manners and Customs of Bible Lands",
       "author": "Wight",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "wight_manners_and_customs_of_bible_lands"
     },
     {
       "id": "wilson-studies-in-the-book-of-daniel",
@@ -1980,7 +2199,8 @@
       "name": "Wilson - Studies in the Book of Daniel",
       "description": "Studies in the Book of Daniel",
       "author": "Wilson",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "wilson_studies_in_the_book_of_daniel"
     },
     {
       "id": "word-study-material",
@@ -1989,7 +2209,8 @@
       "name": "Word Study Material",
       "description": "Word Study Material",
       "author": "",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "word_study_material"
     },
     {
       "id": "zukeran-the-dead-sea-scrolls",
@@ -1998,7 +2219,8 @@
       "name": "Zukeran - The Dead Sea Scrolls",
       "description": "The Dead Sea Scrolls",
       "author": "Zukeran",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "storageName": "zukeran_the_dead_sea_scrolls"
     }
   ]
 }
