@@ -2221,6 +2221,706 @@
       "author": "Zukeran",
       "version": "1.0.0",
       "storageName": "zukeran_the_dead_sea_scrolls"
+    },
+    {
+      "id": "3_d_bible",
+      "type": "book",
+      "path": "3-D-Bible.book.zip",
+      "name": "3-D_Bible",
+      "description": "3-D_Bible",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "3_d_bible"
+    },
+    {
+      "id": "ante_nicene_fathers_volume_1",
+      "type": "book",
+      "path": "Ante-Nicene-Fathers-Volume-1.book.zip",
+      "name": "Ante-nicene fathers volume 1",
+      "description": "Ante-nicene fathers volume 1",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "ante_nicene_fathers_volume_1"
+    },
+    {
+      "id": "ante_nicene_fathers_volume_2",
+      "type": "book",
+      "path": "Ante-Nicene-Fathers-Volume-2.book.zip",
+      "name": "Ante-nicene fathers volume 2",
+      "description": "Ante-nicene fathers volume 2",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "ante_nicene_fathers_volume_2"
+    },
+    {
+      "id": "ante_nicene_fathers_volume_3",
+      "type": "book",
+      "path": "Ante-Nicene-Fathers-Volume-3.book.zip",
+      "name": "Ante-nicene fathers volume 3",
+      "description": "Ante-nicene fathers volume 3",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "ante_nicene_fathers_volume_3"
+    },
+    {
+      "id": "ante_nicene_fathers_volume_4",
+      "type": "book",
+      "path": "Ante-Nicene-Fathers-Volume-4.book.zip",
+      "name": "Ante-nicene fathers volume 4",
+      "description": "Ante-nicene fathers volume 4",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "ante_nicene_fathers_volume_4"
+    },
+    {
+      "id": "ante_nicene_fathers_volume_5",
+      "type": "book",
+      "path": "Ante-Nicene-Fathers-Volume-5.book.zip",
+      "name": "Ante-nicene fathers volume 5",
+      "description": "Ante-nicene fathers volume 5",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "ante_nicene_fathers_volume_5"
+    },
+    {
+      "id": "ante_nicene_fathers_volume_6",
+      "type": "book",
+      "path": "Ante-Nicene-Fathers-Volume-6.book.zip",
+      "name": "Ante-nicene fathers volume 6",
+      "description": "Ante-nicene fathers volume 6",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "ante_nicene_fathers_volume_6"
+    },
+    {
+      "id": "ante_nicene_fathers_volume_7",
+      "type": "book",
+      "path": "Ante-Nicene-Fathers-Volume-7.book.zip",
+      "name": "Ante-nicene fathers volume 7",
+      "description": "Ante-nicene fathers volume 7",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "ante_nicene_fathers_volume_7"
+    },
+    {
+      "id": "ante_nicene_fathers_volume_8",
+      "type": "book",
+      "path": "Ante-Nicene-Fathers-Volume-8.book.zip",
+      "name": "Ante-nicene fathers volume 8",
+      "description": "Ante-nicene fathers volume 8",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "ante_nicene_fathers_volume_8"
+    },
+    {
+      "id": "ante_nicene_fathers_volume_9",
+      "type": "book",
+      "path": "Ante-Nicene-Fathers-Volume-9.book.zip",
+      "name": "Ante-nicene fathers volume 9",
+      "description": "Ante-nicene fathers volume 9",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "ante_nicene_fathers_volume_9"
+    },
+    {
+      "id": "Archer_Tabernacle",
+      "type": "book",
+      "path": "Archer-Tabernacle.book.zip",
+      "name": "Archer_Tabernacle",
+      "description": "Archer_Tabernacle",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Archer_Tabernacle"
+    },
+    {
+      "id": "biblical_hermeneutics_introduction",
+      "type": "book",
+      "path": "Biblical-Hermeneutics-Introduction.book.zip",
+      "name": "Biblical Hermeneutics Introduction",
+      "description": "Biblical Hermeneutics Introduction",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "biblical_hermeneutics_introduction"
+    },
+    {
+      "id": "Chafer_Kingdom_in_History_and_Prophecy",
+      "type": "book",
+      "path": "Chafer-Kingdom-In-History-And-Prophecy.book.zip",
+      "name": "Chafer_Kingdom_in_History_and_Prophecy",
+      "description": "Chafer_Kingdom_in_History_and_Prophecy",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Chafer_Kingdom_in_History_and_Prophecy"
+    },
+    {
+      "id": "Danger_Lines",
+      "type": "book",
+      "path": "Danger-Lines.book.zip",
+      "name": "Danger_Lines",
+      "description": "Danger_Lines",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Danger_Lines"
+    },
+    {
+      "id": "gesenius_hebrew_grammar",
+      "type": "book",
+      "path": "Gesenius-Hebrew-Grammar.book.zip",
+      "name": "Gesenius Hebrew Grammar",
+      "description": "Gesenius Hebrew Grammar",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "gesenius_hebrew_grammar"
+    },
+    {
+      "id": "gurnall_christian_in_complete_armor",
+      "type": "book",
+      "path": "Gurnall-Christian-In-Complete-Armor.book.zip",
+      "name": "Gurnall-Christian_in_Complete_Armor",
+      "description": "Gurnall-Christian_in_Complete_Armor",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "gurnall_christian_in_complete_armor"
+    },
+    {
+      "id": "halverson_prologue_to_prison_pauls_epistle_to_the_romans",
+      "type": "book",
+      "path": "Halverson-Prologue-To-Prison-Pauls-Epistle-To-The-Romans.book.zip",
+      "name": "Halverson_-_Prologue_to_Prison_Pauls_Epistle_to_the_Romans",
+      "description": "Halverson_-_Prologue_to_Prison_Pauls_Epistle_to_the_Romans",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "halverson_prologue_to_prison_pauls_epistle_to_the_romans"
+    },
+    {
+      "id": "Hartill_Principles_of_Biblical_Hermeneutics",
+      "type": "book",
+      "path": "Hartill-Principles-Of-Biblical-Hermeneutics.book.zip",
+      "name": "Hartill_Principles_of_Biblical_Hermeneutics",
+      "description": "Hartill_Principles_of_Biblical_Hermeneutics",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Hartill_Principles_of_Biblical_Hermeneutics"
+    },
+    {
+      "id": "Hebrew_Roots",
+      "type": "book",
+      "path": "Hebrew-Roots.book.zip",
+      "name": "Hebrew_Roots",
+      "description": "Hebrew_Roots",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Hebrew_Roots"
+    },
+    {
+      "id": "Historical_Atlas",
+      "type": "book",
+      "path": "Historical-Atlas.book.zip",
+      "name": "Historical_Atlas",
+      "description": "Historical_Atlas",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Historical_Atlas"
+    },
+    {
+      "id": "How_to_do_a_Hebrew_Word_Study",
+      "type": "book",
+      "path": "How-To-Do-A-Hebrew-Word-Study.book.zip",
+      "name": "How_to_do_a_Hebrew_Word_Study",
+      "description": "How_to_do_a_Hebrew_Word_Study",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "How_to_do_a_Hebrew_Word_Study"
+    },
+    {
+      "id": "HymnLyricsEnglish",
+      "type": "book",
+      "path": "HymnLyricsEnglish.book.zip",
+      "name": "HymnLyricsEnglish",
+      "description": "HymnLyricsEnglish",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "HymnLyricsEnglish"
+    },
+    {
+      "id": "jabini_introduction_to_biblical_languages",
+      "type": "book",
+      "path": "Jabini-Introduction-To-Biblical-Languages.book.zip",
+      "name": "Jabini_-_Introduction_to_Biblical_Languages",
+      "description": "Jabini_-_Introduction_to_Biblical_Languages",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "jabini_introduction_to_biblical_languages"
+    },
+    {
+      "id": "kitto_illustrated_hhistory_of_the_bible",
+      "type": "book",
+      "path": "Kitto-Illustrated-Hhistory-Of-The-Bible.book.zip",
+      "name": "Kitto - Illustrated Hhistory of the Bible",
+      "description": "Illustrated Hhistory of the Bible",
+      "author": "Kitto",
+      "version": "1.0.0",
+      "storageName": "kitto_illustrated_hhistory_of_the_bible"
+    },
+    {
+      "id": "krummacher_elijah_the_tishbite",
+      "type": "book",
+      "path": "Krummacher-Elijah-The-Tishbite.book.zip",
+      "name": "Krummacher- Elijah The Tishbite",
+      "description": "Krummacher- Elijah The Tishbite",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "krummacher_elijah_the_tishbite"
+    },
+    {
+      "id": "krummacher_elisha_a_prophet_for_our_times",
+      "type": "book",
+      "path": "Krummacher-Elisha-A-Prophet-For-Our-Times.book.zip",
+      "name": "Krummacher- Elisha - A Prophet for our Times",
+      "description": "A Prophet for our Times",
+      "author": "Krummacher- Elisha",
+      "version": "1.0.0",
+      "storageName": "krummacher_elisha_a_prophet_for_our_times"
+    },
+    {
+      "id": "Maps_Historical_Atlas",
+      "type": "book",
+      "path": "Maps-Historical-Atlas.book.zip",
+      "name": "Maps_Historical_Atlas",
+      "description": "Maps_Historical_Atlas",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Maps_Historical_Atlas"
+    },
+    {
+      "id": "Maps_Holy_Land",
+      "type": "book",
+      "path": "Maps-Holy-Land.book.zip",
+      "name": "Maps_Holy_Land",
+      "description": "Maps_Holy_Land",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Maps_Holy_Land"
+    },
+    {
+      "id": "moody_bible_characters",
+      "type": "book",
+      "path": "Moody-Bible-Characters.book.zip",
+      "name": "Moody_-_Bible_Characters",
+      "description": "Moody_-_Bible_Characters",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "moody_bible_characters"
+    },
+    {
+      "id": "moody_men_of_the_bible",
+      "type": "book",
+      "path": "Moody-Men-Of-The-Bible.book.zip",
+      "name": "Moody_-_Men_of_the_Bible",
+      "description": "Moody_-_Men_of_the_Bible",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "moody_men_of_the_bible"
+    },
+    {
+      "id": "moulton_grammar_gnt_vol1",
+      "type": "book",
+      "path": "Moulton-Grammar-GNT-Vol1.book.zip",
+      "name": "Moulton-Grammar_GNT_Vol1",
+      "description": "Moulton-Grammar_GNT_Vol1",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "moulton_grammar_gnt_vol1"
+    },
+    {
+      "id": "mounce_greek_tools_for_bible_study",
+      "type": "book",
+      "path": "Mounce-Greek-Tools-For-Bible-Study.book.zip",
+      "name": "Mounce-Greek_Tools_for_Bible_Study",
+      "description": "Mounce-Greek_Tools_for_Bible_Study",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "mounce_greek_tools_for_bible_study"
+    },
+    {
+      "id": "nicene_fathers_vol_01",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-01.book.zip",
+      "name": "Nicene fathers vol 01",
+      "description": "Nicene fathers vol 01",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_01"
+    },
+    {
+      "id": "nicene_fathers_vol_02",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-02.book.zip",
+      "name": "Nicene fathers vol 02",
+      "description": "Nicene fathers vol 02",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_02"
+    },
+    {
+      "id": "nicene_fathers_vol_03",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-03.book.zip",
+      "name": "Nicene fathers vol 03",
+      "description": "Nicene fathers vol 03",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_03"
+    },
+    {
+      "id": "nicene_fathers_vol_04",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-04.book.zip",
+      "name": "Nicene fathers vol 04",
+      "description": "Nicene fathers vol 04",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_04"
+    },
+    {
+      "id": "nicene_fathers_vol_05",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-05.book.zip",
+      "name": "Nicene fathers vol 05",
+      "description": "Nicene fathers vol 05",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_05"
+    },
+    {
+      "id": "nicene_fathers_vol_06",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-06.book.zip",
+      "name": "Nicene fathers vol 06",
+      "description": "Nicene fathers vol 06",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_06"
+    },
+    {
+      "id": "nicene_fathers_vol_07",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-07.book.zip",
+      "name": "Nicene fathers vol 07",
+      "description": "Nicene fathers vol 07",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_07"
+    },
+    {
+      "id": "nicene_fathers_vol_08",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-08.book.zip",
+      "name": "Nicene fathers vol 08",
+      "description": "Nicene fathers vol 08",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_08"
+    },
+    {
+      "id": "nicene_fathers_vol_09",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-09.book.zip",
+      "name": "Nicene fathers vol 09",
+      "description": "Nicene fathers vol 09",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_09"
+    },
+    {
+      "id": "nicene_fathers_vol_10",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-10.book.zip",
+      "name": "Nicene fathers vol 10",
+      "description": "Nicene fathers vol 10",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_10"
+    },
+    {
+      "id": "nicene_fathers_vol_11",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-11.book.zip",
+      "name": "Nicene fathers vol 11",
+      "description": "Nicene fathers vol 11",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_11"
+    },
+    {
+      "id": "nicene_fathers_vol_12",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-12.book.zip",
+      "name": "Nicene fathers vol 12",
+      "description": "Nicene fathers vol 12",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_12"
+    },
+    {
+      "id": "nicene_fathers_vol_13",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-13.book.zip",
+      "name": "Nicene fathers vol 13",
+      "description": "Nicene fathers vol 13",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_13"
+    },
+    {
+      "id": "nicene_fathers_vol_14",
+      "type": "book",
+      "path": "Nicene-Fathers-Vol-14.book.zip",
+      "name": "Nicene fathers vol 14",
+      "description": "Nicene fathers vol 14",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "nicene_fathers_vol_14"
+    },
+    {
+      "id": "Pauls_Missionary_Journeys",
+      "type": "book",
+      "path": "Pauls-Missionary-Journeys.book.zip",
+      "name": "Pauls_Missionary_Journeys",
+      "description": "Pauls_Missionary_Journeys",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Pauls_Missionary_Journeys"
+    },
+    {
+      "id": "plumer_theology_for_the_people",
+      "type": "book",
+      "path": "Plumer-Theology-For-The-People.book.zip",
+      "name": "Plumer_-__Theology_for_the_People",
+      "description": "Plumer_-__Theology_for_the_People",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "plumer_theology_for_the_people"
+    },
+    {
+      "id": "post_nicene_fathers_vol_01",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-01.book.zip",
+      "name": "Post-nicene fathers vol 01",
+      "description": "Post-nicene fathers vol 01",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_01"
+    },
+    {
+      "id": "post_nicene_fathers_vol_02",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-02.book.zip",
+      "name": "Post-nicene fathers vol 02",
+      "description": "Post-nicene fathers vol 02",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_02"
+    },
+    {
+      "id": "post_nicene_fathers_vol_03",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-03.book.zip",
+      "name": "Post-nicene fathers vol 03",
+      "description": "Post-nicene fathers vol 03",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_03"
+    },
+    {
+      "id": "post_nicene_fathers_vol_04",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-04.book.zip",
+      "name": "Post-nicene fathers vol 04",
+      "description": "Post-nicene fathers vol 04",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_04"
+    },
+    {
+      "id": "post_nicene_fathers_vol_05",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-05.book.zip",
+      "name": "Post-nicene fathers vol 05",
+      "description": "Post-nicene fathers vol 05",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_05"
+    },
+    {
+      "id": "post_nicene_fathers_vol_06",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-06.book.zip",
+      "name": "Post-nicene fathers vol 06",
+      "description": "Post-nicene fathers vol 06",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_06"
+    },
+    {
+      "id": "post_nicene_fathers_vol_07",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-07.book.zip",
+      "name": "Post-nicene fathers vol 07",
+      "description": "Post-nicene fathers vol 07",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_07"
+    },
+    {
+      "id": "post_nicene_fathers_vol_08",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-08.book.zip",
+      "name": "Post-nicene fathers vol 08",
+      "description": "Post-nicene fathers vol 08",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_08"
+    },
+    {
+      "id": "post_nicene_fathers_vol_09",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-09.book.zip",
+      "name": "Post-nicene fathers vol 09",
+      "description": "Post-nicene fathers vol 09",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_09"
+    },
+    {
+      "id": "post_nicene_fathers_vol_10",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-10.book.zip",
+      "name": "Post-nicene fathers vol 10",
+      "description": "Post-nicene fathers vol 10",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_10"
+    },
+    {
+      "id": "post_nicene_fathers_vol_11",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-11.book.zip",
+      "name": "Post-nicene fathers vol 11",
+      "description": "Post-nicene fathers vol 11",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_11"
+    },
+    {
+      "id": "post_nicene_fathers_vol_12",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-12.book.zip",
+      "name": "Post-nicene fathers vol 12",
+      "description": "Post-nicene fathers vol 12",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_12"
+    },
+    {
+      "id": "post_nicene_fathers_vol_13",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-13.book.zip",
+      "name": "Post-nicene fathers vol 13",
+      "description": "Post-nicene fathers vol 13",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_13"
+    },
+    {
+      "id": "post_nicene_fathers_vol_14",
+      "type": "book",
+      "path": "Post-Nicene-Fathers-Vol-14.book.zip",
+      "name": "Post-nicene fathers vol 14",
+      "description": "Post-nicene fathers vol 14",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "post_nicene_fathers_vol_14"
+    },
+    {
+      "id": "Prophet_Daniel",
+      "type": "book",
+      "path": "Prophet-Daniel.book.zip",
+      "name": "Prophet_Daniel",
+      "description": "Prophet_Daniel",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Prophet_Daniel"
+    },
+    {
+      "id": "Prophet_Ezekiel",
+      "type": "book",
+      "path": "Prophet-Ezekiel.book.zip",
+      "name": "Prophet_Ezekiel",
+      "description": "Prophet_Ezekiel",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Prophet_Ezekiel"
+    },
+    {
+      "id": "Prophet_Joel",
+      "type": "book",
+      "path": "Prophet-Joel.book.zip",
+      "name": "Prophet_Joel",
+      "description": "Prophet_Joel",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Prophet_Joel"
+    },
+    {
+      "id": "Rand_Mcnally_Bible_Atlas",
+      "type": "book",
+      "path": "Rand-Mcnally-Bible-Atlas.book.zip",
+      "name": "Rand_Mcnally_Bible_Atlas",
+      "description": "Rand_Mcnally_Bible_Atlas",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Rand_Mcnally_Bible_Atlas"
+    },
+    {
+      "id": "smith_effective_prayer_life",
+      "type": "book",
+      "path": "Smith-Effective-Prayer-Life.book.zip",
+      "name": "Smith-Effective_Prayer_Life",
+      "description": "Smith-Effective_Prayer_Life",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "smith_effective_prayer_life"
+    },
+    {
+      "id": "The_Harmony_of_the_Prophetic_Word",
+      "type": "book",
+      "path": "The-Harmony-Of-The-Prophetic-Word.book.zip",
+      "name": "The_Harmony_of_the_Prophetic_Word",
+      "description": "The_Harmony_of_the_Prophetic_Word",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "The_Harmony_of_the_Prophetic_Word"
+    },
+    {
+      "id": "whyte_the_walk_conversation_and_character_of_jesus_christ_our_lord",
+      "type": "book",
+      "path": "Whyte-The-Walk-Conversation-And-Character-Of-Jesus-Christ-Our-Lord.book.zip",
+      "name": "Whyte - The Walk_Conversation and Character of Jesus Christ our Lord",
+      "description": "The Walk_Conversation and Character of Jesus Christ our Lord",
+      "author": "Whyte",
+      "version": "1.0.0",
+      "storageName": "whyte_the_walk_conversation_and_character_of_jesus_christ_our_lord"
+    },
+    {
+      "id": "Women_of_the_Bible",
+      "type": "book",
+      "path": "Women-Of-The-Bible.book.zip",
+      "name": "Women_of_the_Bible",
+      "description": "Women_of_the_Bible",
+      "author": "",
+      "version": "1.0.0",
+      "storageName": "Women_of_the_Bible"
     }
   ]
 }
