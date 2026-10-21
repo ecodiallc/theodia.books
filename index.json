@@ -2433,16 +2433,6 @@
       "storageName": "How_to_do_a_Hebrew_Word_Study"
     },
     {
-      "id": "HymnLyricsEnglish",
-      "type": "book",
-      "path": "HymnLyricsEnglish.book.zip",
-      "name": "HymnLyricsEnglish",
-      "description": "HymnLyricsEnglish",
-      "author": "",
-      "version": "1.0.0",
-      "storageName": "HymnLyricsEnglish"
-    },
-    {
       "id": "jabini_introduction_to_biblical_languages",
       "type": "book",
       "path": "Jabini-Introduction-To-Biblical-Languages.book.zip",
